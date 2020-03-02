@@ -1,0 +1,139 @@
+uid,CAS No.,SMILES,Toxicity (mg/L),species,cid,Canonical_Smiles
+16,38641-94-0,C(NCC(O)=O)P(O)(=O)O.C(C)(C)N,2.0,LP,16,Multiple non-salt/solvate components
+22,76738-62-0,n1c[n@]([C@@H]([C@H](C(C)(C)C)O)Cc2ccc(cc2)Cl)nc1.n1c[n@](nc1)[C@H]([C@@H](C(C)(C)C)O)Cc1ccc(cc1)Cl,23.6,LP,22,Multiple non-salt/solvate components
+35,137-30-4,[Zn+2].S=C([S-])N(C)C.[S-]C(=S)N(C)C,0.0009699999999999999,LP,35,Multiple non-salt/solvate components
+65,10380-28-6,c1c2cccc([O-])c2ncc1.[Cu+2].c1c2c(ncc1)c(ccc2)[O-],0.24,LP,65,Multiple non-salt/solvate components
+244,8018/1/7,[Mn+2].[Zn+2].[S-]C(=S)NCCNC(=S)[S-].[S-]C(=S)NCCNC([S-])=S,0.07400000000000001,RT,244,Multiple non-salt/solvate components
+373,874967-67-6,Cn1cc(c(n1)C(F)F)C(=O)Nc2ccccc2C3CC3C4CC4.Cn1cc(c(n1)C(F)F)C(=O)Nc2ccccc2C3CC3C4CC4.Cn1cc(c(n1)C(F)F)C(=O)Nc2ccccc2C3CC3C4CC4.Cn1cc(c(n1)C(F)F)C(=O)Nc2ccccc2C3CC3C4CC4,1.1,RT,373,Multiple non-salt/solvate components
+475,99257-43-9,N(CCCCCCCCNC(=N)N)CCCCCCCCNC(=N)N.c1(c(cccc1)CCCCCCCCCCCC)S(=O)(=O)O.c1(c(cccc1)CCCCCCCCCCCC)S(=O)(=O)O.c1(c(cccc1)CCCCCCCCCCCC)S(=O)(=O)O,4.5,RT,475,Multiple non-salt/solvate components
+683,127277-53-6,[Ca+2].O=C1C(=C(\[O-])CC)/C(=O)CC(C(=O)O)C1.[O-]\C(=C1\C(=O)CC(C(=O)O)CC1=O)CC,100.0,RT,683,Multiple non-salt/solvate components
+717,81405-85-8,COC(=O)c1cc(C)ccc1C=2NC(=O)C(C)(N=2)C(C)C.COC(=O)c1ccc(C)cc1C=2NC(=O)C(C)(N=2)C(C)C,100.0,RT,717,Multiple non-salt/solvate components
+806,81591-81-3,O=C([O-])CNCP(=O)(O)O.[S+](C)(C)C,1800.0,RT,806,Multiple non-salt/solvate components
+878,8065-48-3,P(OCC)(=O)(OCC)SCCSCC.P(OCC)(OCC)(OCCSCC)=S,1.6,RT,878,Multiple non-salt/solvate components
+964,39148-24-8,O(P(=O)[O-])CC.O(P(=O)[O-])CC.O(P(=O)[O-])CC.[Al+3],122.0,RT,964,Multiple non-salt/solvate components
+976,1338-02-9,CCC1CCC(CC1)CCC(=O)[O-].CCC1CCC(C1)CCC(=O)[O-].[Cu+2],800.0,RT,976,Multiple non-salt/solvate components
+3,56-35-9,[Sn](O[Sn](CCCC)(CCCC)CCCC)(CCCC)(CCCC)CCCC,0.0076,LP,3,No non-salt/solvate components
+29,1332-07-6,B([O-])([O-])[O-].B([O-])([O-])[O-].[Zn+2].[Zn+2].[Zn+2],335.0,LP,29,No non-salt/solvate components
+31,10043-52-4,[Cl-].[Ca+2].[Cl-],10240.0,LP,31,No non-salt/solvate components
+46,1336-21-6,[OH-].[NH4+],0.024,LP,46,No non-salt/solvate components
+107,175217-20-6,Cc1c(sc(c1C(=O)NCC=C)[Si](C)(C)C)C,11.0,LP,107,No non-salt/solvate components
+123,60-00-4,N(CCN(CC(O)=O)CC(O)=O)(CC(O)=O)CC(O)=O,41.0,LP,123,No non-salt/solvate components
+134,75-60-5,[As](C)(C)(O)=O,100.0,LP,134,No non-salt/solvate components
+143,1314-13-2,O=[Zn],320.0,LP,143,No non-salt/solvate components
+151,109-86-4,C(CO)OC,10000.0,LP,151,No non-salt/solvate components
+161,13356-08-6,CC(C)(C[Sn](CC(C)(C)c1ccccc1)(CC(C)(C)c2ccccc2)O[Sn](CC(C)(C)c3ccccc3)(CC(C)(C)c4ccccc4)CC(C)(C)c5ccccc5)c6ccccc6,0.00114,RT,161,No non-salt/solvate components
+190,20859-73-8,[Al]#P,0.0097,RT,190,No non-salt/solvate components
+194,62-38-4,c1([Hg]OC(C)=O)ccccc1,0.011000000000000001,RT,194,No non-salt/solvate components
+204,20427-59-2,[Cu+2].[OH-].[OH-],0.017,RT,204,No non-salt/solvate components
+208,7722-84-1,OO,0.022000000000000002,RT,208,No non-salt/solvate components
+239,7704-34-9,S,0.063,RT,239,No non-salt/solvate components
+287,7447-39-4,Cl[Cu]Cl,0.24,RT,287,No non-salt/solvate components
+320,95-95-4,Clc1cc(O)c(Cl)cc1Cl,0.49,RT,320,No non-salt/solvate components
+382,85509-19-9,n1(cncn1)C[Si](c1ccc(F)cc1)(C)c1ccc(cc1)F,1.2,RT,382,No non-salt/solvate components
+444,1344-81-6,[Ca+2].S,2.86,RT,444,No non-salt/solvate components
+544,12527-76-3,[Cu+2].[O-]S([O-])(=O)=O,13.2,RT,544,No non-salt/solvate components
+553,10045-86-0,P(=O)([O-])([O-])[O-].[Fe+3],17.0,RT,553,No non-salt/solvate components
+561,1327-53-3,o1[as]2o[as]3o[as]1o[as](o2)o3,18.1,RT,561,No non-salt/solvate components
+603,7783-20-2,O=S(=O)(O)O.N.N,38.2,RT,603,No non-salt/solvate components
+606,1303-96-4,O=BO[B](O[B](OB=O)O[Na])O[Na],40.0,RT,606,No non-salt/solvate components
+610,1332-40-7,[Cu+2].[Cu+2].[Cl-].[OH-].[OH-].[OH-],43.8,RT,610,No non-salt/solvate components
+612,7720-78-7,S(=O)(=O)([O-])[O-].[Fe+2],45.1,RT,612,No non-salt/solvate components
+617,10043-35-3,B(O)(O)O,50.0,RT,617,No non-salt/solvate components
+623,74-89-5,CN,56.0,RT,623,No non-salt/solvate components
+631,1979/9/4,CCC(=O)O,67.1,RT,631,No non-salt/solvate components
+651,7664-38-2,P(O)(O)(O)=O,87.0,RT,651,No non-salt/solvate components
+665,14808-60-7,[Si](=O)=O,100.0,RT,665,No non-salt/solvate components
+671,471-34-1,[Ca+2].[O-]C([O-])=O,100.0,RT,671,No non-salt/solvate components
+712,2163-80-6,[Na+].[O-][As](=O)(O)C,100.0,RT,712,No non-salt/solvate components
+720,37894-46-5,COCCO[Si](CCCl)(OCCOC)OCCOC,100.0,RT,720,No non-salt/solvate components
+750,1981/7/2,O=C2NS(=O)(=O)c1ccccc12,124.0,RT,750,No non-salt/solvate components
+805,298-14-6,C(O)(=O)[O-].[K+],1400.0,RT,805,No non-salt/solvate components
+808,7647-14-5,[Na+].[Cl-],6094.0,RT,808,No non-salt/solvate components
+809,67-64-1,CC(=O)C,8000.0,RT,809,No non-salt/solvate components
+812,64-17-5,C(C)O,13200.0,RT,812,No non-salt/solvate components
+813,1302-78-9,O=[Al]O[Al]=O.[Si](=O)=O.O,19000.0,RT,813,No non-salt/solvate components
+814,56-81-5,OCC(O)CO,54000.0,RT,814,No non-salt/solvate components
+830,639-58-7,[Sn](c1ccccc1)(c1ccccc1)(c1ccccc1)Cl,0.037000000000000005,RT,830,No non-salt/solvate components
+846,1317-39-1,[Cu].[Cu].O,0.207,RT,846,No non-salt/solvate components
+930,64-19-7,C(C)(O)=O,45.0,RT,930,No non-salt/solvate components
+932,7778-39-4,O[As](=O)(O)O,53.1,RT,932,No non-salt/solvate components
+934,11130-12-4,B(O)(O)O.O.[Na+].O.O.O.O,65.0,RT,934,No non-salt/solvate components
+944,1332-58-7,[SiH](=O)(O[SiH](=O)O[AlH]=O)O[AlH]=O.O.O,100.0,RT,944,No non-salt/solvate components
+961,144-21-8,[As](C)(=O)([O-])[O-].[Na+].[Na+],114.0,RT,961,No non-salt/solvate components
+974,7784-26-1,S(=O)(=O)([O-])[O-].S(=O)(=O)([O-])[O-].O.[Al+3].[NH4+].O.O.O.O.O.O.O.O.O.O.O,523.0,RT,974,No non-salt/solvate components
+1173,Potassium dodecanoate,CCCCCCCCCCCC(=O)[O-],0.41,BS,1173,No non-salt/solvate components
+1176,"2,4,5-TRICHLOROPHENOL",Oc1cc(Cl)c(Cl)cc1Cl,0.45,BS,1176,No non-salt/solvate components
+1456,"9-Octadecenoic acid (Z)-, copper(2++) salt",CCCCCCCC\C=C/CCCCCCCC(=O)[O-],14.0,BS,1456,No non-salt/solvate components
+1485,Copper citrate,OC(=O)C[C@](O)(CC(=O)[O-])C(=O)O,22.5,BS,1485,No non-salt/solvate components
+1486,Potassium oleate,CCCCCCCCC=CCCCCCCCC(=O)[O-],23.0,BS,1486,No non-salt/solvate components
+1511,"Acetic acid, copper salt",CC(=O)O,34.5,BS,1511,No non-salt/solvate components
+1522,Ethylenediaminetetraacetic acid,OC(=O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,41.0,BS,1522,No non-salt/solvate components
+1553,Propionic acid,CCC(=O)O,85.3,BS,1553,No non-salt/solvate components
+1575,Ethylene glycol monomethyl ether,COCCO,100.0,BS,1575,No non-salt/solvate components
+1614,L-Lactic acid,C[C@H](O)C(=O)O,130.0,BS,1614,No non-salt/solvate components
+1627,Picric acid,Oc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],170.0,BS,1627,No non-salt/solvate components
+1632,Sodium propionate,CCC(=O)[O-],180.0,BS,1632,No non-salt/solvate components
+1651,Ethanolamine,NCCO,300.0,BS,1651,No non-salt/solvate components
+1664,Ethylenediaminetetraacetic acid tetrasodium salt hydrate,[O-]C(=O)CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-],486.0,BS,1664,No non-salt/solvate components
+1679,Diethanolamine,OCCNCCO,775.0,BS,1679,No non-salt/solvate components
+1699,Polypropylene glycol,CC(O)CO,1700.0,BS,1699,No non-salt/solvate components
+1701,"Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-, diammonium salt",OC(=O)CN(CCN(CC(=O)O)CC(=O)[O-])CC(=O)[O-],2340.0,BS,1701,No non-salt/solvate components
+1709,Acetone,CC(=O)C,8300.0,BS,1709,No non-salt/solvate components
+1817,Sodium dedecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-],4.5,BS,1817,No non-salt/solvate components
+1832,"Copper, ((2,2',2''-nitrilotris(ethanolato))(2-)-N,O,O',O"")-",OCCN(CC[O-])CC[O-],17.6,BS,1832,No non-salt/solvate components
+2051,"2,4,5-TRICHLOROPHENOL",Oc1cc(Cl)c(Cl)cc1Cl,0.902,FHM,2051,No non-salt/solvate components
+2196,Maleic acid,OC(=O)C=CC(=O)O,5.0,FHM,2196,No non-salt/solvate components
+2228,Sodium dedecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-],6.6,FHM,2228,No non-salt/solvate components
+2303,Butyraldehyde,CCCC=O,13.4,FHM,2303,No non-salt/solvate components
+2459,Acetic acid,CC(=O)O,79.0,FHM,2459,No non-salt/solvate components
+2472,Hexanoic acid,CCCCCC(=O)O,88.0,FHM,2472,No non-salt/solvate components
+2479,Adipic acid,OC(=O)CCCCC(=O)O,97.0,FHM,2479,No non-salt/solvate components
+2481,Diethanolamine,OCCNCCO,100.0,FHM,2481,No non-salt/solvate components
+2482,Ethanol,CCO,100.0,FHM,2482,No non-salt/solvate components
+2486,Acetone,CC(=O)C,100.0,FHM,2486,No non-salt/solvate components
+2490,Sodium benzoate,[O-]C(=O)c1ccccc1,100.0,FHM,2490,No non-salt/solvate components
+2514,Ethylenediamine,NCCN,115.7,FHM,2514,No non-salt/solvate components
+2630,Propylene Glycol,CC(O)CO,710.0,FHM,2630,No non-salt/solvate components
+2638,Diethylamine,CCNCC,855.0,FHM,2638,No non-salt/solvate components
+2648,Sodium salicylate,Oc1ccccc1C(=O)[O-],1370.0,FHM,2648,No non-salt/solvate components
+2659,Ethanolamine,NCCO,2070.0,FHM,2659,No non-salt/solvate components
+2686,Triethanolamine,OCCN(CCO)CCO,11800.0,FHM,2686,No non-salt/solvate components
+2690,Sodium saccharin,O=C1[N-]S(=O)(=O)c2ccccc12,18300.0,FHM,2690,No non-salt/solvate components
+2824,Ethylenediaminetetraacetic acid,OC(=O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,59.8,FHM,2824,No non-salt/solvate components
+2828,Pentanoic acid,CCCCC(=O)O,77.0,FHM,2828,No non-salt/solvate components
+2833,"Ferrate(1-), [[N,N'-1,2-ethanediylbis[N-[(carboxy-.kappa.O)methyl]glycinato-.kappa.N,.kappa.O]](4-)]-, sodium, (OC-6-21)-",[O-]C(=O)CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-],100.0,FHM,2833,No non-salt/solvate components
+2851,Oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O,205.0,FHM,2851,No non-salt/solvate components
+2872,Sodium propionate,CCC(=O)[O-],4740.0,FHM,2872,No non-salt/solvate components
+2917,"Octadecanoic acid, cadmium salt",CCCCCCCCCCCCCCCCCC(=O)[O-],0.006,RT,2917,No non-salt/solvate components
+2952,"Copper, ((2,2',2''-nitrilotris(ethanolato))(2-)-N,O,O',O"")-",OCCN(CC[O-])CC[O-],0.026000000000000002,RT,2952,No non-salt/solvate components
+3047,"2,4,5-TRICHLOROPHENOL",Oc1cc(Cl)c(Cl)cc1Cl,0.249,RT,3047,No non-salt/solvate components
+3186,Potassium dodecanoate,CCCCCCCCCCCC(=O)[O-],1.3,RT,3186,No non-salt/solvate components
+3299,Sodium dedecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-],4.2,RT,3299,No non-salt/solvate components
+3431,Diethylamine,CCNCC,25.0,RT,3431,No non-salt/solvate components
+3434,tert-Butylamine,CC(C)(C)N,28.0,RT,3434,No non-salt/solvate components
+3453,Cyclohexylamine,NC1CCCCC1,44.0,RT,3453,No non-salt/solvate components
+3460,Propionic acid,CCC(=O)O,51.0,RT,3460,No non-salt/solvate components
+3506,Ethylene glycol monomethyl ether,COCCO,100.0,RT,3506,No non-salt/solvate components
+3533,Picric acid,Oc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],109.6,RT,3533,No non-salt/solvate components
+3553,L-Lactic acid,C[C@H](O)C(=O)O,130.0,RT,3553,No non-salt/solvate components
+3562,Ethanolamine,NCCO,150.0,RT,3562,No non-salt/solvate components
+3578,Potassium oleate,CCCCCCCCC=CCCCCCCCC(=O)[O-],260.0,RT,3578,No non-salt/solvate components
+3777,Acetone,CC(=O)C,8000.0,RT,3777,No non-salt/solvate components
+3778,Polypropylene glycol,CC(O)CO,10000.0,RT,3778,No non-salt/solvate components
+3828,Diethanolamine,OCCNCCO,540.0,Sheepshead Minnow,3828,No non-salt/solvate components
+3908,Sodium dedecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-],4.1,Sheepshead Minnow,3908,No non-salt/solvate components
+3942,"2,4,5-TRICHLOROPHENOL",Oc1cc(Cl)c(Cl)cc1Cl,1.7,Sheepshead Minnow,3942,No non-salt/solvate components
+32,1305-99-3,[Ca+2].[Ca+2].[Ca+2].[PH6-3].[PH6-3],0.000105,LP,32,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+97,15879-93-3,C(C([C@@H]1[C@@H]([C@@H]2 C(O1)O[C@@H](O2)C(Cl)(Cl)Cl)O)O)O,5.0,LP,97,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+188,12057-74-8,[Mg+2].[Mg+2].[Mg+2].[PH6-3].[PH6-3],0.0093,RT,188,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+283,131341-86-1,N#Cc3cncc3c1cccc2OC(F)(F)Oc12,0.23,RT,283,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+328,148-79-8,n2c1c(cccc1)nc2c3ncsc3,0.55,RT,328,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+354,74738-17-3,Clc1cccc(c1Cl)c2c(C#N)cnc2,0.8,RT,354,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+357,8001-54-5,c1(C[N+](C)(C)*)ccccc1.[ClH-],0.823,RT,357,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+379,7173-51-5,C([N+](CCCCCCCCCC)(C)C)CCCCCCCCC.[ClH-],1.16,RT,379,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+501,274671-61-3,c1c(ccc(COCC[NH+](CC)CC)c1)C.[ClH-],6.7,RT,501,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+543,56717-11-4,[N+]1(CCCCC1)(CC=C)CC[C@@H](CCCC(C)C)C.[BrH-],12.7,RT,543,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+549,1910-42-5,c1(c2cc[n+](C)cc2)cc[n+](C)cc1.[ClH-].[ClH-],15.0,RT,549,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+786,288-88-0,n1cnnc1,498.0,RT,786,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+798,61-82-5,n1cnnc1N,1000.0,RT,798,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
+867,3878-19-1,n2c1c(cccc1)nc2c3occc3,0.91,RT,867,"No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type NoneType"
